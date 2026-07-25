@@ -13,11 +13,11 @@
         Hey, I'm Dastin! I design and code interactive web experiences. Most of what i'm build either just a personal project or high fidelity prototype.
       </p>
       <br /><br />
-      <h3>📊 GitHub Stats</h3>
+      <h3>📊 Top Languages & Contribution Snake</h3>
       <p>
-        <img src="https://github-readme-stats.vercel.app/api?username=iluvvac&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="100%" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=iluvvac&layout=compact&theme=radical" alt="Top Languages" width="100%" />
         <br />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iluvvac&layout=compact&theme=tokyonight" alt="Top Languages" width="100%" />
+        <img src="https://raw.githubusercontent.com/iluvvac/iluvvac/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
       </p>
       <br /><br />
       <h3>📫 Connect With Me</h3>
