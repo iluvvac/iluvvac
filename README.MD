@@ -12,14 +12,14 @@
       <p>
         Hey, I'm Dastin! I design and code interactive web experiences. Most of what i'm build either just a personal project or high fidelity prototype.
       </p>
-      <p>📊 Most Used Languages</p>
+      <h3>📊 Most Used Languages</h3>
       <p>
         <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=iluvvac&layout=compact&theme=radical&hide_title=true" alt="Top Languages" width="300" />
       </p>
       <h3>📫 Connect With Me</h3>
       <p>
         <a href="https://dast.in">
-          <img src="https://img.shields.io/badge/Website-dast.in-007acc?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Website" />
+          <img src="https://img.shields.io/badge/Personal Website-007acc?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Website" />
         </a>
         <a href="https://www.linkedin.com/in/dastindarmawan/">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
